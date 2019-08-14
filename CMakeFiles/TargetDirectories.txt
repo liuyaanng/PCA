@@ -1,0 +1,3 @@
+/home/kevin/OpenCV/PCA/CMakeFiles/edit_cache.dir
+/home/kevin/OpenCV/PCA/CMakeFiles/rebuild_cache.dir
+/home/kevin/OpenCV/PCA/CMakeFiles/PCA.dir
